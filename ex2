@@ -1,0 +1,8 @@
+'''
+
+Welcome to GDB Online,comment by Joe
+
+
+'''
+#this is output
+print("Hello world")#this is output
